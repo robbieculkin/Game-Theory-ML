@@ -1,4 +1,4 @@
-# Game Theory Machien Learning
+# Game Theory Machine Learning
 
 ## Robbie Culkin
 
